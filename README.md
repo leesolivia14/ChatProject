@@ -1,4 +1,6 @@
 # Chatterbox
+Assignment in NYU CSCIUA-480: Introduction to Computer Security
+
 Programming assignment: simplified Signal protocol in Go.
 
 Completing this assignment requires implementing a simplified secure chat client, based on the Signal protocol. Crypto library code is provided using AES-GCM, SHA-256 and P-256.
